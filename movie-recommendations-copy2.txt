@@ -1,0 +1,10 @@
+Three movie recommendations:
+Interstellar
+Snowpiercer
+Avangers
+
+
+Books:
+Clean code
+Fast and slow
+Game of thrones
